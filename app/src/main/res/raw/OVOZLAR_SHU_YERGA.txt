@@ -1,0 +1,10 @@
+Signal ovozlarini shu papkaga tashlang (mp3 yoki ogg):
+
+  signal_uygonish.mp3  -> 06:30 uyg'onish va 18:15 sport uchun
+                          (g'alati, qattiq, asabga tegadigan ovoz tanlang —
+                           ilova ovozni 8 soniyada bir kuchaytirib boradi)
+  signal_diqqat.mp3    -> darslar, matematika, koreys tili uchun
+  signal_yumshoq.mp3   -> nonushta, tushlik, uy ishlari, uyqu uchun
+
+Fayl nomi aynan shunday bo'lishi kerak (kichik harflarda, bo'sh joysiz).
+Agar fayl qo'shilmasa, ilova telefondagi standart budilnik ovozini ishlatadi.

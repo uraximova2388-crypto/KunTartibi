@@ -1,0 +1,7 @@
+<resources>
+    <color name="night">#0B1020</color>
+    <color name="card">#161E33</color>
+    <color name="text">#E8EDF7</color>
+    <color name="muted">#93A0BC</color>
+    <color name="amber">#FFB020</color>
+</resources>

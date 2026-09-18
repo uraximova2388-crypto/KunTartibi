@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kun tartibi</string>
+    <string name="open_camera">Kamerani ochish</string>
+    <string name="take_photo">Suratga olish</string>
+    <string name="mark_done">Bajardim</string>
+    <string name="cannot_close">Bu oyna suratsiz yopilmaydi.</string>
+    <string name="camera_needed">Kamera ruxsati kerak — busiz habarni yopib bo\'lmaydi.</string>
+    <string name="camera_error">Kamera ochilmadi. Qayta urinib ko\'r.</string>
+    <string name="photo_failed">Surat saqlanmadi. Yana bos.</string>
+    <string name="done_toast">Qabul qilindi. Ishga tush.</string>
+    <string name="proof_gallery">Bugungi isbotlar</string>
+    <string name="fix_permissions">Ruxsatlarni tekshirish</string>
+    <string name="no_proofs">Bugun hali birorta ish suratga olinmagan.</string>
+    <string name="progress_fmt">Bugun bajarilgan: %1$d / %2$d</string>
+    <string name="proof_line">Isbot: %1$s</string>
+</resources>
